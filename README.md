@@ -305,9 +305,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 
-![PCM](https://github.com/Abrinnisha6/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118889454/19741261-7ce9-4179-a80b-7c2fe2cc1ae9)
+![PCM1](https://github.com/Abrinnisha6/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118889454/8156dfd3-470d-4c9f-8a14-6668cb09309f)
 
- 
+
+![PCM 2](https://github.com/Abrinnisha6/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118889454/b0d745f8-c97e-4bff-8d42-affd5ac0def1)
+
+
 ## Result :
 
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
